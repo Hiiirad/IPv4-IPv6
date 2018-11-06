@@ -4,7 +4,7 @@ Hi everybody :)
 
 This is my first repository and love to share my programs with everybody as I consider myself an Open-Source advocate.
 
- 1. **IP Detection**: This program detects IP with regex and recognize these:
+ 1. **IP Detection**: This program detects IP with regex (Regular Expression) and recognize these:
     - [ ] IPv4 or IPv6
     - [ ] IP ranges
     - [ ] Valid or Invalid IP

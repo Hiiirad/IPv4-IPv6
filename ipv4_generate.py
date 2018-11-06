@@ -1,4 +1,3 @@
-
 def ipRange(start_ip, end_ip):
     start = list(map(int, start_ip.split(".")))
     end = list(map(int, end_ip.split(".")))

@@ -12,3 +12,4 @@ This is my first repository and love to share my programs with everybody as I co
 3. **IPv4 to Decimal**: This program translate IP address from dotted-decimal address to decimal format.
 4. **Generate IPv4**: Give this program a first of a range and an end IP of that range and you get all IPs between them.
 5. **Subnet IPv4**: This program gets an IP and gives you netmask of it.
+6. **Hosts of Network**: This program get you number of hosts based on any form of netmask.

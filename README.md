@@ -8,6 +8,8 @@ This is my first repository and love to share my programs with everybody as I co
 
 ## Getting Started
 
+These programs will only works on **Linux** systems and I believe they would be work perfectly on Macbooks. My OS is Ubuntu 18.04 and I design these programs to run on all debian-based linux systems. The installation process will be different if you use other linux distributions.
+
 There are 6 programs in this repository which each of has its own feature to play with IPs.
 
 ### Features

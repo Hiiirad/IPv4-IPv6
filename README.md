@@ -24,6 +24,9 @@ There are 6 programs in this repository which each of has its own feature to pla
 
 ### Prerequisites
 ```
+sudo apt update && sudo apt upgrade -y
+```
+```
 sudo apt install git
 ```
 

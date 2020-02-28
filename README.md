@@ -25,50 +25,48 @@ There are 6 programs in this repository which each of has its own feature to pla
 6. **Hosts of Network**: This program get you number of hosts based on any form of netmask.
 
 ### Prerequisites
-```
+```bash
 sudo apt update && sudo apt upgrade -y
-```
-```
 sudo apt install git
 ```
 
 ### Installing
 I prefer using [Anaconda](https://www.anaconda.com/) instead of using [Pip or PyPI](https://pypi.org/), but you decide which is good for you.
  - Using Pip:
-    - ```sudo apt install python3-pip```
-    - ```pip install pip```
-    - ```pip install -r requirements.txt```
+   ```bash
+   sudo apt install python3-pip
+   pip install pip
+   pip install -r requirements.txt
+   ```
  - Using Anaconda: Installation process is completely documented [here](https://docs.anaconda.com/anaconda/install/linux/).
 
 ### Upgrading
 * Pip:
-    ```
+    ```bash
     pip install -U pip
     ```
 * Anaconda:
-    ```
+    ```bash
     conda update --all
     ```
 
 ### Version check to verify installation
 * Pip:
-    ```
+    ```bash
     pip --version
     ```
 * Anaconda:
-    ```
+    ```bash
     conda --version
     ```
 
 ## Usage
-```
+```bash
 git clone https://github.com/Hiiirad/IPv4-IPv6.git
-```
-```
 cd IPv4-IPv6/
 ```
-```
-python name-of-program.py
+```bash
+python NAME-OF-PROGRAM.py
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

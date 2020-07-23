@@ -23,6 +23,7 @@ There are 6 programs in this repository which each of has its own feature to pla
 4. **Generate IPv4**: Give this program a first of a range and an end IP of that range and you get all IPs between them.
 5. **Subnet IPv4**: This program gets an IP and gives you netmask of it.
 6. **Hosts of Network**: This program get you number of hosts based on any form of netmask.
+7. **List of Malicious IPs**: This program give you a list of notorious IPs used for bad purposes in the internet. If you don't want to run the program, you can download the result as a text file.
 
 ### Prerequisites
 ```bash
